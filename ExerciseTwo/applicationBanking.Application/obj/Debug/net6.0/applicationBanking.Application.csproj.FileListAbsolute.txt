@@ -1,0 +1,17 @@
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.AssemblyInfo.cs
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Application.deps.json
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Application.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Application.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Domain.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Infrastructure.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Infrastructure.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\bin\Debug\net6.0\applicationBanking.Domain.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.csproj.CopyComplete
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\refint\applicationBanking.Application.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\applicationBanking.Application.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Application\obj\Debug\net6.0\ref\applicationBanking.Application.dll

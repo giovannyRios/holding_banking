@@ -1,0 +1,12 @@
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\bin\Debug\net6.0\applicationBanking.Domain.deps.json
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\bin\Debug\net6.0\applicationBanking.Domain.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\bin\Debug\net6.0\applicationBanking.Domain.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.AssemblyInfo.cs
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\refint\applicationBanking.Domain.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\applicationBanking.Domain.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Domain\obj\Debug\net6.0\ref\applicationBanking.Domain.dll

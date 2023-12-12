@@ -1,0 +1,17 @@
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Infrastructure.IoC.deps.json
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Infrastructure.IoC.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Infrastructure.IoC.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Domain.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Infrastructure.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Domain.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\bin\Debug\net6.0\applicationBanking.Infrastructure.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.csproj.CopyComplete
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\refint\applicationBanking.Infrastructure.IoC.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\applicationBanking.Infrastructure.IoC.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure.IoC\obj\Debug\net6.0\ref\applicationBanking.Infrastructure.IoC.dll

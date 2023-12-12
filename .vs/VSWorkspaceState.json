@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExerciseTwo",
+    "\\ExerciseTwo\\applicationBanking.Infrastructure",
+    "\\ExerciseTwo\\applicationBanking.Infrastructure\\Context"
+  ],
+  "SelectedNode": "\\ExerciseTwo\\applicationBanking.Infrastructure\\Context\\bankingContext.cs",
+  "PreviewInSolutionExplorer": false
+}

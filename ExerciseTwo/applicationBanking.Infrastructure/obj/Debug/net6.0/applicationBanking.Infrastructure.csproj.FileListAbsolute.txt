@@ -1,0 +1,15 @@
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\bin\Debug\net6.0\applicationBanking.Infrastructure.deps.json
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\bin\Debug\net6.0\applicationBanking.Infrastructure.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\bin\Debug\net6.0\applicationBanking.Infrastructure.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\bin\Debug\net6.0\applicationBanking.Domain.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\bin\Debug\net6.0\applicationBanking.Domain.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.AssemblyInfo.cs
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.csproj.CopyComplete
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\refint\applicationBanking.Infrastructure.dll
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\applicationBanking.Infrastructure.pdb
+C:\Users\giova\Documents\treebu\ExerciseTwo\applicationBanking.Infrastructure\obj\Debug\net6.0\ref\applicationBanking.Infrastructure.dll
