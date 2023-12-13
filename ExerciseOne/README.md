@@ -18,7 +18,7 @@ Api\Repository\Interface\IRepository.cs
 
 Este proyecto implementado en un contenedor docker que se encuentra expuesto a través de un tunel cloudflared para su acceso en linea
 
-* Url de acceso: https://regime-encouraged-subsidiaries-publications.trycloudflare.com/swagger/index.html
+* Url de acceso: https://knitting-salem-infrared-fraud.trycloudflare.com/swagger/index.html
 
 # Manual de usuario
 
