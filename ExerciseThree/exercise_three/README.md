@@ -28,7 +28,7 @@ exercise_three\Services\Interfaces\IProcessHttpResponse.cs
 
 Este proyecto implementado en un contenedor docker que se encuentra expuesto a través de un tunel cloudflared para su acceso en linea
 
-* Url de acceso: https://mixed-h-ons-rising.trycloudflare.com/swagger/index.html
+* Url de acceso: https://generally-veterinary-owned-oops.trycloudflare.com/swagger/index.html
 
 # Manual de usuario
 
